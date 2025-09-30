@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:24.10
 MAINTAINER Keybase <admin@keybase.io>
 
 RUN apt-get update
